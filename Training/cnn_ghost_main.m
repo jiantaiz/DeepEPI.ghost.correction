@@ -1,7 +1,7 @@
 clear ;
 reset(gpuDevice(1));
 
-% restoredefaultpath();
+restoredefaultpath();
 run('C:\Users\ZJT_work\AppData\Roaming\MathWorks\MATLAB Add-Ons\Collections\vlfeat_matconvnet\matlab\vl_setupnn.m');
 
 
